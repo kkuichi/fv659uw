@@ -32,6 +32,7 @@ Na vyrovnanie dátovej nerovnováhy boli použité:
  - bp_data.ipynb -> zdrojový kód v jazyku python s pochopením dát, prípravou dát a modelovaním
  - WA_Fn-UseC_-Telco-Customer-Churn.csv -> dataset
  - README.md
+ - catboost_info -> vypis modelu
 ### Požiadavky
 Dáta boli spracované v prostredí Visual Studio Code. Notebook je uložený vo formáte `.ipynb`. Je možné ho otvoriť vo Visual Studio Code ale s rozšírením Python a jupyter notebook, alebo priamo cez Jupyter notebook.
 Potrebné knižnice a verzie:
